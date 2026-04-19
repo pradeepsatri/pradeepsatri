@@ -16,7 +16,7 @@
 
 Senior Azure Cloud & DevOps Engineer with **10+ years** of proven expertise in designing, building, and scaling enterprise cloud infrastructure. Specialized in infrastructure automation, CI/CD pipeline optimization, and Kubernetes orchestration. Passionate about delivering reliable, secure, and cost-efficient cloud solutions.
 
-**Currently:** Senior DevOps Engineer @ **Probis Software GmbH** 🔵
+**Latest Role:** Senior DevOps Engineer @ **Probis Software GmbH** (Oct 2024 - Feb 2026) 🔵
 
 **Location:** 🇩🇪 Germany | **Visa:** EU Blue Card
 
@@ -25,7 +25,7 @@ Senior Azure Cloud & DevOps Engineer with **10+ years** of proven expertise in d
 ## 💼 Professional Experience
 
 ### 🔷 Senior DevOps Engineer | Probis Software GmbH
-**October 2024 – Present**
+**October 2024 – February 2026**
 - Refactored cloud infrastructure reducing deployment errors by **40%**
 - Modernized CI/CD pipelines accelerating delivery cycles by **30%**
 - Implemented enterprise-grade SSO with high availability & disaster recovery
