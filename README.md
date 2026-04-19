@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeepsatri/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pradeepsatri)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeep.satri@gmail.com)
 
 </div>
@@ -130,18 +129,6 @@ Senior Azure Cloud & DevOps Engineer with **10+ years** of proven expertise in d
 
 ---
 
-## 🌟 Recent Projects
-
-### 🚀 Portfolio Website
-Interactive portfolio built with **Next.js, React, and Tailwind CSS**
-- Smooth animations and transitions
-- Interactive skill visualizations with charts
-- Responsive design (mobile, tablet, desktop)
-- Experience timeline with 9+ career positions
-- [View Portfolio](https://portfolio.vercel.app)
-
----
-
 ## 📚 Education
 
 - **Master of Computer Applications** - Sri Venkateswara University, Andhra Pradesh, India
@@ -162,7 +149,7 @@ I'm always interested in discussing:
 
 ### 📫 Get In Touch
 
-[**LinkedIn**](https://www.linkedin.com/in/pradeepsatri/) • [**GitHub**](https://github.com/pradeepsatri) • [**Portfolio**](https://portfolio.vercel.app) • [**Email**](mailto:pradeep.satri@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/pradeepsatri/) • [**GitHub**](https://github.com/pradeepsatri) • [**Email**](mailto:pradeep.satri@gmail.com)
 
 ---
 
