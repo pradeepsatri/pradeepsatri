@@ -138,7 +138,6 @@ Interactive portfolio built with **Next.js, React, and Tailwind CSS**
 - Interactive skill visualizations with charts
 - Responsive design (mobile, tablet, desktop)
 - Experience timeline with 9+ career positions
-- [View Portfolio](https://portfolio.vercel.app)
 
 ---
 
